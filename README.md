@@ -17,7 +17,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-# nim
-Curates and synchronize your thoughts from any device....
->>>>>>> d4891f714426086511f48320fe00544c39e8600b
